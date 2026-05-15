@@ -71,6 +71,24 @@ nav button {
   width: 100%;
 }
 
+body.logged-out {
+  grid-template-columns: 1fr;
+  grid-template-areas: "h" "n" "f";
+}
+
+body.logged-out nav {
+  justify-content: center;
+  align-self: center;
+}
+
+body.logged-out main {
+  display: none;
+}
+
+body.logged-out nav h2 {
+  text-align: center;
+}
+
 img {
   border-radius: 12px;
 }

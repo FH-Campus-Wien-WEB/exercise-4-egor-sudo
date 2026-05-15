@@ -53,32 +53,59 @@
       "Metascore": 94,
       "imdbRating": 9
     },
-    "tt0057261": {
-      "imdbID": "tt0057261",
-      "Title": "Lord of the Flies",
-      "Released": "1963-08-12",
-      "Runtime": 92,
+    "tt3387542": {
+      "imdbID": "tt3387542",
+      "Title": "The Forest",
+      "Released": "2016-01-07",
+      "Runtime": 93,
       "Genres": [
-        "Adventure",
-        "Drama",
+        "Horror",
+        "Mystery",
         "Thriller"
       ],
       "Directors": [
-        "Peter Brook"
+        "Jason Zada"
       ],
       "Writers": [
-        "William Golding",
-        "Peter Brook"
+        "Ben Ketai",
+        "Sarah Cornwell",
+        "Nick Antosca"
       ],
       "Actors": [
-        "James Aubrey",
-        "Tom Chapin",
-        "Hugh Edwards"
+        "Natalie Dormer",
+        "Eoin Macken",
+        "Stephanie Vogt"
       ],
-      "Plot": "Schoolboys marooned on a Pacific island create their own savage civilization.",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BY2RiOTM0ZDgtNDRlMi00MDMzLWI1NDYtY2NjZDM4YTkwNWVlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Metascore": 67,
-      "imdbRating": 6.9
+      "Plot": "A young woman's desperate search for her twin sister brings her to a ghost-filled stretch of wilderness known as the 'Suicide Forest.'",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjAwMzQzNTc5OV5BMl5BanBnXkFtZTgwNDgyMTU2NzE@._V1_SX300.jpg",
+      "Metascore": 34,
+      "imdbRating": 4.8
+    },
+    "tt0028096": {
+      "imdbID": "tt0028096",
+      "Title": "The Petrified Forest",
+      "Released": "1936-02-07",
+      "Runtime": 82,
+      "Plot": "A waitress, a hobo and a bank robber get mixed up at a lonely diner in the desert.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDc4MGQzYjEtODNmYi00ZWIzLTliYzEtNjBiNjlmNzlhYjcyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Metascore": 0,
+      "imdbRating": 7.5,
+      "Genres": [
+        "Documentary"
+      ],
+      "Directors": [
+        "Archie Mayo"
+      ],
+      "Writers": [
+        "Charles Kenyon",
+        "Delmer Daves",
+        "Robert E. Sherwood"
+      ],
+      "Actors": [
+        "Leslie Howard",
+        "Humphrey Bogart",
+        "Bette Davis"
+      ]
     }
   },
   "jane": {
@@ -166,6 +193,32 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BZGRiZDZhZjItM2M3ZC00Y2IyLTk3Y2MtMWY5YjliNDFkZTJlXkEyXkFqcGc@._V1_SX300.jpg",
       "Metascore": 88,
       "imdbRating": 8.5
+    },
+    "tt3387542": {
+      "imdbID": "tt3387542",
+      "Title": "The Forest",
+      "Released": "2016-01-07",
+      "Runtime": 93,
+      "Plot": "A young woman's desperate search for her twin sister brings her to a ghost-filled stretch of wilderness known as the 'Suicide Forest.'",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjAwMzQzNTc5OV5BMl5BanBnXkFtZTgwNDgyMTU2NzE@._V1_SX300.jpg",
+      "Metascore": 34,
+      "imdbRating": 4.8,
+      "Genres": [
+        "Fantasy"
+      ],
+      "Directors": [
+        "Jason Zada"
+      ],
+      "Writers": [
+        "Ben Ketai",
+        "Sarah Cornwell",
+        "Nick Antosca"
+      ],
+      "Actors": [
+        "Natalie Dormer",
+        "Eoin Macken",
+        "Stephanie Vogt"
+      ]
     }
   }
 }
